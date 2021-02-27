@@ -13,3 +13,6 @@ Bank Management System Web App with Spring Boot
 - RestAPI
 - Swagger
 - OOP Principles
+
+### ER Diagram
+![alt text](https://github.com/EylemGokdemir05/SpringBoot_MyBank/blob/main/er_diagram.png)
